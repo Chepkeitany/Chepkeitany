@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning bash scripting
 - 👯 I’m looking to collaborate on building scalable web applications
 - 💬 I'm open to talk about React and Nodejs and Graph Algorithms
-- 📫 How to reach me: anne.chepkeitany@gmail.com
 
+• [Email](mailto:anne.chepkeitany@gmail.com) • [Twitter](https://twitter.com/Chepkeitany) • [LinkedIn](https://www.linkedin.com/in/anne-c-83042130/) 
