@@ -10,4 +10,4 @@ Throughout my career, I have worked across a variety of domains and have built s
 
 I hold a Master's in CS from Georgia Institute of Technology, specializing in Computing Systems.
 
-• [Email](mailto:anne.chepkeitany@gmail.com) • [Twitter](https://twitter.com/Chepkeitany) • [LinkedIn] (https://www.linkedin.com/in/anne-c-83042130/) [Website](https://chepkeitany.com/)
+• [Email](mailto:anne.chepkeitany@gmail.com) • [Twitter](https://twitter.com/Chepkeitany) • [LinkedIn](https://www.linkedin.com/in/anne-c-83042130/) • [Website](https://chepkeitany.com/)
